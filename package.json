@@ -1,0 +1,24 @@
+{
+  "name": "@rawendra/rawendra-sample-node-utils",
+  "version": "1.0.0",
+  "description": "this is testing the node js based utils file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rawendra/node-js-publishing-repo.git"
+  },
+  "keywords": [
+    "NODE",
+    "JS",
+    "UTIL"
+  ],
+  "author": "rawendra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rawendra/node-js-publishing-repo/issues"
+  },
+  "homepage": "https://github.com/Rawendra/node-js-publishing-repo#readme"
+}
